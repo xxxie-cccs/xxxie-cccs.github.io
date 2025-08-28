@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Chen Xie</title>
+    <link>https://xxxie-cccs.github.io/publication_types/</link>
+      <atom:link href="https://xxxie-cccs.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xxxie-cccs.github.io/media/icon_hu_9518f2b51b6b0c4d.png</url>
+      <title>Publication_types</title>
+      <link>https://xxxie-cccs.github.io/publication_types/</link>
+    </image>
+    
+  </channel>
+</rss>
