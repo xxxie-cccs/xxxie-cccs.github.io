@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://xxxie-cccs.github.io/sitemap.xml
