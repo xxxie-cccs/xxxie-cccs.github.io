@@ -1,28 +1,99 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+title: 🐾 Meet Suansuan： My Resident Purr-fessor
+summary: Say hi to my extraordinarily cute cat—now serving as Chief Cuteness Officer.
+date: 2025-08-27
 
 authors:
   - admin
-  - Ted
-
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+  - Cat
+  - Purr-fessor
 ---
 
-Welcome 👋
+Welcome 👋 You' ve found my extraordinarily cute cat—
+
+now serving as Chief Cuteness Officer.
 
 {{< toc mobile_only=true is_open=true >}}
 
-## Overview
+
+## Gallery
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;">
+  <figure style="margin:0">
+    <img src="1.jpg" alt="Day 1" loading="lazy">
+    <figcaption>Day 1: Found Suansuan — tiny rescue bean 🐾💖</figcaption>
+  </figure>
+  <figure style="margin:0">
+    <img src="2.jpg" alt="Age 1" loading="lazy">
+    <figcaption>Age 1: Birthday baby cat 🎂😺</figcaption>
+  </figure>
+  <figure style="margin:0">
+    <img src="3.jpg" alt="Age 2" loading="lazy">
+    <figcaption>Age 2: Nap master 💤💨</figcaption>
+  </figure>
+  <figure style="margin:0">
+    <img src="4.jpg" alt="Age 3" loading="lazy">
+    <figcaption>Age 3: Elegant loaf 👑🐈‍⬛</figcaption>
+  </figure>
+  <figure style="margin:0">
+    <img src="5.jpg" alt="Age 3" loading="lazy">
+    <figcaption>Puzzled cat loading… ❓ </figcaption>
+  </figure>
+</div>
+
+
+## GRWM: Suansuan Edition
+```markmap {height="400px"}
+- Suansuan’s Day 🐈‍⬛
+  - Morning 🌅
+    - Wake-up stretch & yawns 😪
+    - Breakfast (wet/dry treats) 🍽️
+    - Windowsill patrol & sunbath 🌞🪟
+    - Morning zoomies 💨
+  - Daytime ☀️
+    - Naps × N 💤
+    - Bird/car watching 🐦🚗
+    - Scratch time: pad/post 🪵
+    - Grooming: face wash & brushing 🧼🪮
+  - Evening 🌇
+    - Dinner 🍗
+    - Litter box patrol 🚽
+    - Social: head boops, making biscuits, cuddles 🤗
+  - Night 🌙
+    - Zoomies—round two 💥
+    - Bedside guard / blanket anchor 🛏️
+    - Pillow-side purring ASMR 😺🎧
+  - Habits & Health 🩺
+    - Hydration check-ins 💧
+    - Weight / food log 📝
+    - Teeth brushing / ear cleaning (optional) 🪥👂
+  - Special Events (Occasional) 🎉
+    - Vet visits / vaccines 🏥
+    - New toy unboxing 📦✨
+    - Balcony sunbath & big stretch 🌤️
+```
+
+## A small game
+Try to find my cat！
+{{< spoiler text="👉 Click" >}}
+Not here~
+{{< /spoiler >}}
+{{< spoiler text="👉 Click" >}}
+Not here~
+{{< /spoiler >}}
+{{< spoiler text="👉 Click" >}}
+You found me!🐱
+{{< /spoiler >}}
+{{< spoiler text="👉 Click" >}}
+Only footprints left!🐾
+{{< /spoiler >}}
+{{< spoiler text="👉 Click" >}}
+Not here~
+{{< /spoiler >}}
+
+
+
+<!-- ## Overview
 
 1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
@@ -83,4 +154,4 @@ Hugo Blox and its templates come with **automatic day (light) and night (dark) m
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license. -->
